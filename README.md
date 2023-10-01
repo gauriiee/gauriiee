@@ -17,14 +17,10 @@ Data Science Intern @ Tata Technologies , passionate about building innovative a
 * **Sentiment analysis:** Built a machine learning model to classify text sentiment as positive, negative, or neutral.
 * **Recommendation system:** Created a recommendation system to recommend products to users based on their past purchase history.
 
-### Socials
-
-[![LinkedIn icon](https://cdn-icons-png.flaticon.com/512/175/175959.png)](https://www.linkedin.com/in/gauri-sharma-b620a9220/)
-[![GitHub icon](https://cdn-icons-png.flaticon.com/512/25/25231.png)](https://github.com/gauri-sharma)
 
 ### GitHub Stats
 
-[![GitHub stats](https://github-readme-stats/gauri-sharma.svg)](https://github.com/gauri-sharma)
+[![GitHub Streak](https://streak-stats.demolab.com/?gauriiee=DenverCoder1)](https://git.io/streak-stats)
 
 ### GitHub Skyline
 
