@@ -30,11 +30,6 @@ Data Science Intern @ Tata Technologies , passionate about building innovative a
 
 [![GitHub skyline](https://skyline.github.com/gauri-sharma/2023.svg)](https://skyline.github.com/gauri-sharma)
 
-### Fun tech GIFs
-
-[![GIF of a robot dancing](https://media.giphy.com/media/3o7TKqK94VHGM/giphy.gif)](https://giphy.com/gifs/robot-dancing-3o7TKqK94VHGM)
-[![GIF of a code editor](https://media.giphy.com/media/l0MYvY72wW63f220U/giphy.gif)](https://giphy.com/gifs/code-editor-l0MYvY72wW63f220U)
-[![GIF of a cat typing](https://media.giphy.com/media/d3mP0f2eC6r72c/giphy.gif)](https://giphy.com/gifs/cat-typing-d3mP0f2eC6r72c)
 
 ### Contact
 
