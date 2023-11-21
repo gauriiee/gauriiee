@@ -5,7 +5,6 @@ Ex-Data Science Intern @ Tata Technologies , passionate about building innovativ
 ### Skills
 
 * Programming languages: Python, Java, C/C++, SQL, PL/SQL
-* Natural language processing: spaCy, Hugging Face Transformers
 * Cloud computing: Google Cloud Platform
 * Oracle APEX, SIEM , Cloud Development
 
