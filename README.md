@@ -1,6 +1,6 @@
 ## Gauri Sharma
 
-Data Science Intern @ Tata Technologies , passionate about building innovative and scalable solutions to solve real-world problems. Expertise in oracle apex, natural language processing, and computer vision.
+Ex-Data Science Intern @ Tata Technologies , passionate about building innovative and scalable solutions to solve real-world problems. Expertise in oracle apex, natural language processing, and computer vision.
 
 ### Skills
 
@@ -17,14 +17,6 @@ Data Science Intern @ Tata Technologies , passionate about building innovative a
 * **Sentiment analysis:** Built a machine learning model to classify text sentiment as positive, negative, or neutral.
 * **Recommendation system:** Created a recommendation system to recommend products to users based on their past purchase history.
 
-
-### GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?gauriiee=DenverCoder1)](https://git.io/streak-stats)
-
-### GitHub Skyline
-
-[![GitHub skyline](https://skyline.github.com/gauri-sharma/2023.svg)](https://skyline.github.com/gauri-sharma)
 
 
 ### Contact
