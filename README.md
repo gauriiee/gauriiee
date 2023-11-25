@@ -22,4 +22,4 @@ Ex-Data Science Intern @ Tata Technologies , passionate about building innovativ
 ### Contact
 
 * LinkedIn: https://www.linkedin.com/in/gauri-sharma-b620a9220/
-* GitHub: https://github.com/gauri-sharma
+* GitHub: https://github.com/gauriiee
